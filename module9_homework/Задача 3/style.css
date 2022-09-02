@@ -1,0 +1,31 @@
+.button {
+    cursor: pointer;
+    height: 30px;
+    width: 50px;
+    background: rgb(80, 80, 185);
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.button:hover {
+    cursor: pointer;
+    height: 30px;
+    width: 55px;
+    background: rgb(82, 82, 255);
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: all ease 0.5s;
+}
+.result {
+    font-weight: bold;
+}
+.card {
+    width: 200px;
+    margin: 20px;
+}
+.card-image {
+    display: block;
+    width: 200px;
+    height: 150px;
+}

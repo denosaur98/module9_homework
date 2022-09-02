@@ -1,0 +1,25 @@
+.button {
+    margin-top: 10px;
+    cursor: pointer;
+    height: 30px;
+    width: 177px;
+    background: rgb(228, 157, 5);
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.button:hover {
+    margin-top: 10px;
+    cursor: pointer;
+    height: 35px;
+    width: 177px;
+    background: rgb(255, 186, 36);
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: all ease 0.3s;
+}
+.result {
+    margin-top: 10px;
+    font-weight: bold;
+}
